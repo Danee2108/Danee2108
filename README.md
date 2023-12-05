@@ -5,7 +5,7 @@ I'm currently studying computer science, and would like to steer towards game de
 As of 06-27-2022 I have basic knowledge of C# and Python, and have managed to:  
 -Release my first game
 
-As of 12-05-2023 I know some C++, HTML, CSS, basic Java & Javascript, and I also:
+As of 12-05-2023 I know some C++, HTML, CSS, basic Java & Javascript, and I also:  
 -Made my own api and website
   
 You can contact me at daniel@parlana.net  
